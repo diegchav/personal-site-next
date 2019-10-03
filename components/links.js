@@ -4,10 +4,10 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 const Links = () => (
   <div className="links">
     <a href="https://github.com/diegchav" target="_blank">
-      <FontAwesomeIcon icon={['fab', 'github']} size="2x" />
+      <FontAwesomeIcon icon={['fab', 'github']} width="32" />
     </a>
     <a href="https://www.linkedin.com/in/diego-chávez-3316ba140" target="_blank">
-      <FontAwesomeIcon icon={['fab', 'linkedin']} size="2x" />
+      <FontAwesomeIcon icon={['fab', 'linkedin']} width="32" />
     </a>
 
     <style jsx>{`
