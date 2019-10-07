@@ -4,7 +4,7 @@ const Me = () => (
   <div className="me">
     <h1 className="name">Diego Chávez</h1>
     <hr />
-    <h2 className="role">FullStack Web Developer</h2>
+    <h2 className="role">Full Stack Developer</h2>
 
     <style jsx>{`
       .me {

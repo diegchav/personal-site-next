@@ -4,7 +4,7 @@ import Head from 'next/head'
 const MainLayout = ({ children }) => (
   <div>
     <Head>
-      <title>Diego Chávez | FullStack Web Developer</title>
+      <title>Diego Chávez | Full Stack Developer</title>
       <meta charSet="UTF-8" />
       <link rel='icon' href='/static/favicon.ico' importance='low' />
       <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"></link>
