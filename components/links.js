@@ -6,7 +6,7 @@ const Links = () => (
     <a href="https://github.com/diegchav" target="_blank">
       <FontAwesomeIcon icon={['fab', 'github']} width="32" />
     </a>
-    <a href="https://www.linkedin.com/in/diego-chávez-3316ba140" target="_blank">
+    <a href="https://www.linkedin.com/in/diegchav" target="_blank">
       <FontAwesomeIcon icon={['fab', 'linkedin']} width="32" />
     </a>
 
