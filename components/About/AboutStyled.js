@@ -4,17 +4,17 @@ const AboutStyled = styled.div`
     text-align: center;
 
     .name {
-        color: rgba(2, 120, 189, 1);
+        color: ${props => props.fontColor};
         font-size: 4rem;
         line-height: 1rem;
     }
 
     hr {
-        border: 1px solid #ddd;
+        border: 1px solid #bbb;
     }
 
     .role {
-        color: rgba(2, 120, 189, 0.8);
+        color: ${props => props.fontColor};
         font-size: 2rem;
         line-height: 1.5rem;
     }
